@@ -17,7 +17,7 @@ margin-top: -200px;
 margin-left: 80px;
 }
 .navbar{
-  background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/dada.jpeg");
+  background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("dada.jpeg");
 background-size: cover;
 background-repeat: no-repeat;
 min-height: 500px;
@@ -167,7 +167,7 @@ margin: 0 auto;
   margin: 40px;
 }
 #rat{
-  background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../images/building.jpeg");
+  background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("building.jpeg");
   background-size: cover;
   background-repeat: no-repeat;
 
