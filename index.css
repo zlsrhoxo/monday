@@ -1,0 +1,237 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+.navbar ul {
+list-style: none;
+margin-top: -200px;
+ text-align: center;
+}
+.navbar ul li{
+  display: inline-grid;
+  padding: 15px;
+
+}
+.nav h1,p{
+margin-left: 80px;
+}
+.navbar{
+  background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/dada.jpeg");
+background-size: cover;
+background-repeat: no-repeat;
+min-height: 500px;
+color: white;
+width: 100%;
+
+
+}
+
+.logo img{
+margin-top:81px;
+margin-right: 120px;
+height: 60px;
+padding: 72px;
+}
+
+#logo-container{
+  margin-top: -98px;
+}
+.navbar ul li a{
+  margin-top: 70px;
+  color: white;
+text-decoration: none;
+
+}
+h1{
+  margin-top: 99px;
+
+}
+
+.item{
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.btn-1{
+  background: #3764a5;
+  color: white;
+  min-height: 30px;
+width: 90px;
+
+}
+.btn-2{
+background: #8e1e97;
+  color: white;
+  min-height: 30px;
+  width: 90px;
+
+}
+
+#menuitem{
+  margin-top: 100px;
+}
+
+#menu-content{
+
+  background-color: #edf0f7;
+
+}
+
+h4{
+text-align: center;
+font-size: 30px;
+
+
+}
+.lol li{
+
+  display: inline-grid;
+padding:5px;
+    border: 1px solid black;
+}
+
+span{
+  color: black;
+}
+.lol li a{
+
+  text-decoration: none;
+
+}
+.lol{
+  text-align: center;
+}
+.box{
+background-size: cover;
+  display: inline-grid;
+  grid-template-columns: auto auto auto auto;
+  text-align: center;
+  grid-column-gap: 20px;
+  width: 85%;
+  margin-left: 80px;
+  padding-top:40px;
+padding-bottom: 40px;
+}
+.flex{
+  margin: 0 auto;
+  width: 85%;
+display: flex;
+justify-content:center;
+}
+.flex img{
+  height: 300px;
+  margin: 15px;
+  border: 1px solid black;
+  width: 20%;
+  height: 50%;
+}
+
+.flex2{
+  margin: 0 auto;
+  width: 85%;
+display: flex;
+justify-content:center;
+}
+
+.flex2 img{
+  height: 300px;
+  margin: 15px;
+  border: 1px solid black;
+  width: 20%;
+  height: 50%;
+}
+.btn button{
+  color: white;
+background-color: #08465a;
+text-align: center;
+  padding: 5px;
+}
+.btn{
+  text-align: center;
+}
+.mouse1{
+  width: 200px;
+}
+.mouse{
+
+
+justify-content:center;
+display: flex;
+color: white;
+height: 50px;
+width: 85%;
+margin: 0 auto;
+  padding: 80px;
+  margin: 13px;
+  margin: 40px;
+}
+#rat{
+  background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../images/building.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
+.mouse span{
+  color: white;
+}
+.you{
+  text-align: center
+
+}
+
+hr{
+  width: 30px;
+  color: #801980;
+
+}
+.CLIENTS{
+  text-align: center;
+  margin-top: 70px;
+  background: #f8f8f8;
+  height: 200px;
+  padding: 80px;
+}
+#newsletter{
+  display: flex;
+  background: #0c3e4e;
+  color: white;
+}
+.last{
+margin-right: 80px;
+    padding: 1px 7px 2px;
+    border-width: 1px;
+    border-style: solid;
+
+
+}
+#newsletter {
+    display: flex;
+    background: #0c3e4e;
+    color: white;
+
+}
+.news{
+  margin-left:37px;
+}
+.news button{
+float: right;
+
+}
+.letter{
+
+  margin-left: 548px;
+  padding: 15px;
+}
+.click{
+    height: 25px;
+  width: 150px;
+  border-radius: 4px;
+}
+.touch{
+  background: #93dbe6;
+  border-radius: 4px;
+  color: white;
+  height: 25px;
+width:80px;
+}
